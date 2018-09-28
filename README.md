@@ -11,8 +11,8 @@ It will take place on October 21-23, 2018 Raleigh Convention Center. [Full story
 * Complete agenda can be found [here](https://allthingsopen.org/schedule/)
 
 ### Speaker : 
-* [Mehul Patel](https://allthingsopen.org/speakers/mehul-patel/)
-* [Viral Parmar](https://allthingsopen.org/speakers/viral-parmar/)
+* [Mehul Patel, Auth0](https://allthingsopen.org/speakers/mehul-patel/)
+* [Viral Parmar, Mozilla](https://allthingsopen.org/speakers/viral-parmar/)
 
 ### Goals : 
 
