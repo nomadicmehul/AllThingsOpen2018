@@ -9,7 +9,6 @@ It will take place on October 21-23, 2018 Raleigh Convention Center. [Full story
 ### Highlight topics for the workshop:
 
 * Build your Serverless application with Ath0
-* Serverless authentication with JWT
 * Web security vulnebrities
 * How to implement SSO
 * Using Passwordless SMS & Email Authentication with Auth0
