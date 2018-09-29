@@ -12,6 +12,7 @@ It will take place on October 21-23, 2018 Raleigh Convention Center. [Full story
 * Serverless authentication with JWT
 * Web security vulnebrities
 * How to implement SSO
+* Using Passwordless SMS & Email Authentication with Auth0
 
 ##### Please note, this is an extended session. Part 1 starts at 10:30 AM. Part 2 starts at 11:30 AM. Part 3 starts at 12:30 PM.
 
