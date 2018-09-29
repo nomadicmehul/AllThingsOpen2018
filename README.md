@@ -6,7 +6,7 @@ It will take place on October 21-23, 2018 Raleigh Convention Center. [Full story
 * Title : Extreme Web Exploitation – Ultimate Hacking Techniques (Extended Session)
 * Description : We will give a hands-on session of web app penetration testing on OWASP Top 10 2018 list which includes SQL Injection, Command Injection, Brute-forcing, Broken Authentication , Session Hijacking, XSS, IDOR, DOS, XXE, LFI & RFI, CSRF, Buffer Overflow, Unvalidated redirects, click jacking, File upload, WAF bypass, serverless authentication, securing with SSO, passwordless and many more.
 
-### Highlight topics:
+### Highlight topics for the workshop:
 
 * Build your Serverless application with Ath0
 * Serverless authentication with JWT
